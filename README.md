@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabesh Bhandari.</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
-<img align="right" alt="coding-image" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="350" height= "200" border-radius="100" margin-top="27">
+<img align="right" alt="coding-image" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="350vw" height= "250vw" border-radius="100" margin-top="27">
 
 - 🌱 I’m currently learning **Full Stack developing**.
 
