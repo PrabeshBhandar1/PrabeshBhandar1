@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Prabesh Bhandari</h1>
+<h1 align="center">Hi 👋, I'm Prabesh Bhandari.</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 <img align="right" alt="coding-image" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="350" height= "200" border-radius="100" margin-top="27">
 
-- 🌱 I’m currently learning **Full Stack developing**
+- 🌱 I’m currently learning **Full Stack developing**.
 
-- 💬 Ask me about **anything?**
+- 💬 Ask me about **anything you want?**
 
-- 📫 How to reach me **bprabesh38@gmail.com**
+- 📫 How to contact me? **Email me : bprabesh38@gmail.com**
 
-- ⚡ Fun fact **I love to make projects just to tickle my brain.🤣**
+- ⚡ Fun fact:  **I love to make projects just to tickle my brain.🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
